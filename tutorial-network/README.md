@@ -1,3 +1,3 @@
 # tutorial-network
 
-tutorial
+commodity trading network
